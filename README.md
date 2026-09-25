@@ -83,7 +83,7 @@ The dashboard transforms raw transaction data into meaningful business insights 
 
 # Dashboard 
 
-<img width="1255" height="649" alt="Transactions in India DASHBOARD" src="https://github.com/user-attachments/assets/5467a69f-dd1c-4a8a-836e-ba902b9bfd81" />
+<img width="1255" height="649" alt="Transactions in India Analysis DASHBOARD" src="https://github.com/user-attachments/assets/5467a69f-dd1c-4a8a-836e-ba902b9bfd81" />
 
 
 # Skills Demonstrated
